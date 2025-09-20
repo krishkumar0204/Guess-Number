@@ -135,10 +135,9 @@ body {
   }
 
   .game-container {
-    width: 360px;
+    width: 300px;
     height: auto;
     margin: 100px auto;
-    margin-left: 20px;
   }
   .game-info {
     display: flex;
